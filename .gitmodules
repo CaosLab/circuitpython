@@ -310,3 +310,6 @@
 [submodule "ports/espressif/esp32-camera"]
 	path = ports/espressif/esp32-camera
 	url = https://github.com/adafruit/esp32-camera/
+[submodule "frozen/Adafruit_CircuitPython_framebuf"]
+	path = frozen/Adafruit_CircuitPython_framebuf
+	url = https://github.com/adafruit/Adafruit_CircuitPython_framebuf
